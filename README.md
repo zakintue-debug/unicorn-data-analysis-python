@@ -25,11 +25,8 @@ This project explores a global unicorn-company dataset using Python. It demonstr
 
 The project is designed to explore patterns across unicorn companies and make the dataset easier to investigate interactively. It combines traditional notebook-based analysis with search/filter functionality and visual outputs.
 
-## Why This Project Is in My Portfolio
+## Inspect the coursework
 
-This was an earlier Python analytics project that helped build my foundations in **data exploration, visualisation and interactive analysis**. My newer projects extend these skills into SQL, PostgreSQL, Power BI and production-style analytics workflows.
+Open the [analysis notebook](NTU_XXXXX_SOFT40161_CourseWorkTemplate.ipynb) alongside the [company dataset](UNICORN.csv). The CSV contains company, valuation, industry, location and funding fields. Treat valuations as a historical snapshot.
 
-## Related Projects
-
-- [NHS Hospital Performance Analytics](https://github.com/zakintue-debug/nhs-hospital-performance-analytics)
-- [Customer Shopping Behavior Analytics](https://github.com/zakintue-debug/customer-behavior-analytics-project)
+To explore locally, change the notebook's `file_path` from its original Windows location to your copy of `UNICORN.csv`. The Tkinter section needs a desktop display. The interface is supplied as notebook code.
